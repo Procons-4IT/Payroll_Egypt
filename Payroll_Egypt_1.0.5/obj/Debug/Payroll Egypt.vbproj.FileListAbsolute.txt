@@ -1,0 +1,81 @@
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll Egypt.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\bin\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\bin\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\bin\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll Egypt.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll_Egypt.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll_Egypt.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll Egypt.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150423_Payroll_Egypt_1.0.0\obj\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll Egypt.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\bin\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\bin\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\bin\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll Egypt.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll_Egypt.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll_Egypt.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150428_Payroll_Egypt_1.0.1\obj\Debug\Payroll Egypt.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll Egypt.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\bin\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\bin\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\bin\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll Egypt.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll_Egypt.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll_Egypt.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll Egypt.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20150903_Payroll_Egypt_1.0.2\obj\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll Egypt.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\bin\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\bin\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\bin\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll Egypt.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll_Egypt.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll_Egypt.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151116_Payroll_Egypt_1.0.3\obj\Debug\Payroll Egypt.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll Egypt.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\bin\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\bin\Debug\Payroll_Egypt.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\bin\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll Egypt.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll_Egypt.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll_Egypt.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll Egypt.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20151124_Payroll_Egypt_1.0.4\obj\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20160105_Payroll_Egypt_1.0.5\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20160105_Payroll_Egypt_1.0.5\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20160105_Payroll_Egypt_1.0.5\obj\Debug\Payroll Egypt.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20160105_Payroll_Egypt_1.0.5\obj\Debug\Payroll_Egypt.exe
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20160105_Payroll_Egypt_1.0.5\obj\Debug\Payroll_Egypt.xml
+G:\International Projects_SAP9.0\Procons-4IT\Payroll\Egypt\20160105_Payroll_Egypt_1.0.5\obj\Debug\Payroll_Egypt.pdb
